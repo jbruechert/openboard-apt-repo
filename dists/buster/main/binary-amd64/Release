@@ -1,0 +1,5 @@
+Archive: testing
+Component: main
+Origin: buster
+Architecture: amd64
+Description: OpenBoard packages for debian
