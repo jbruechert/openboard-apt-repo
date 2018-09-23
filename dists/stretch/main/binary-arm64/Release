@@ -1,0 +1,5 @@
+Archive: stable
+Component: main
+Origin: stretch
+Architecture: arm64
+Description: OpenBoard packages for debian

@@ -1,0 +1,55 @@
+Origin: stretch
+Suite: stable
+Codename: stretch
+Date: Sun, 23 Sep 2018 10:22:07 UTC
+Architectures: armhf arm64 amd64 i386
+Components: main
+Description: OpenBoard packages for debian
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ a1a3095f5fe0d9370e9ebb1f5c0c2549 111 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 75ca5da1773180dd3098d5f3f4192565 111 main/binary-arm64/Release
+ 0ed08127f69ed57741cd7441af9a985d 2518 main/binary-amd64/Packages
+ c65aa037c387df6979115e1999b0af42 1160 main/binary-amd64/Packages.gz
+ b879044381efc5423278ae0c734f02a2 111 main/binary-amd64/Release
+ 54cf4d397df7b7fb6afc45221bf68a2d 2513 main/binary-i386/Packages
+ 8c5dd986d9e89756e01ca7e2af1828ee 1160 main/binary-i386/Packages.gz
+ 61bb36ea3922e5a402a337fd8eb6295a 110 main/binary-i386/Release
+ 376d1f950b41b88d56991b20071abe56 1702 main/source/Sources
+ 0d95afd870a6fd6a509f23f9803a6888 834 main/source/Sources.gz
+ cc9bf916a5e4076492a34455b2948f55 112 main/source/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 34bc85d962bbbbcf86615b3b48c0e3b7549a8f12 111 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 80abafd03ea12f9716c4458ff3efb87a7aef9dec 111 main/binary-arm64/Release
+ 3184e6dee9667f43500920c1911795ed05209fd2 2518 main/binary-amd64/Packages
+ 3c93e675338df5221010babd099a4f91b1a61604 1160 main/binary-amd64/Packages.gz
+ c0bd4d67fc64fc8c339a3090914039c3cb54051b 111 main/binary-amd64/Release
+ b7967a6ba766198cb2d2a5656bd2f10882c28db0 2513 main/binary-i386/Packages
+ db7944dcadd515cbd21d44f50873446663f1f097 1160 main/binary-i386/Packages.gz
+ 2229372bead9764de9eb5b1a360004186aaf9d76 110 main/binary-i386/Release
+ 610a28d5608503eadecdb4c036a9e1a8fe50aa38 1702 main/source/Sources
+ f8dc952247d7ce06583c13984d5ca8d01b3eb19c 834 main/source/Sources.gz
+ 6b13de38889ee2f5e47e1d426e3b4a680f68c8f9 112 main/source/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ ccc53ceb1ea1aa7ba750d225b33ff653a8dfc29ebeb1aa8715bc94ceed0c7f3f 111 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ b63886e5b36303977d65a9fec95367001f1bb28221ccfad90e4c638e3ad05265 111 main/binary-arm64/Release
+ 35aa14f94e562d0a809a26842914778f7ef6fa53451b517273aa6ff6f8d82e5a 2518 main/binary-amd64/Packages
+ 4e1bb53a0c8962c37a097100fc1acd9ffd4f41fbde8baf92a575f6d081ca6093 1160 main/binary-amd64/Packages.gz
+ 60948be00ca9a6e2e4eb682ab86f966e44187a670037e829888aee204fdef306 111 main/binary-amd64/Release
+ 71842130a425398769d351572d5292564e3568805048e97e6931510ef85a6aee 2513 main/binary-i386/Packages
+ af6d3820420b5a4cf5cb35a282a4ee62eaef85f5da4ccb82b196261c7312b436 1160 main/binary-i386/Packages.gz
+ 038ef42fca54468e15965b4d7fb809fbf4a5fb6f451ac48f334641af437a0f1c 110 main/binary-i386/Release
+ aca6a4ce565ef82f9c1edfaf4ebaac8874fa5bddfe9b9d4e3348895b819d9683 1702 main/source/Sources
+ 7c9fe49f177da77704e6d95ead38c0b6bce4b5e8d03b5aa58239a02c95ee92b2 834 main/source/Sources.gz
+ 763774665685c1063f744b18a44d66cd9c94ac351da007ce2e973744fc68a808 112 main/source/Release
