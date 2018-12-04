@@ -1,17 +1,17 @@
 Package: openboard
-Version: 1.4.1-1
+Version: 1.5.0-1
 Architecture: amd64
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
-Installed-Size: 54482
-Depends: libasound2 (>= 1.0.16), libass9 (>= 1:0.13.6), libavcodec58 (>= 7:4.0) | libavcodec-extra58 (>= 7:4.0), libavformat58 (>= 7:4.0), libavutil56 (>= 7:4.0), libbz2-1.0, libc6 (>= 2.14), libfdk-aac1 (>= 0.1.4), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libgl1, libglib2.0-0 (>= 2.12.0), libgomp1 (>= 4.9), liblzma5 (>= 5.1.1alpha+20110809), libmp3lame0 (>= 3.100), libogg0 (>= 1.0rc3), libopus0 (>= 1.1), libpoppler74 (>= 0.63.0), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5script5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.6.0~rc), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libqt5xmlpatterns5 (>= 5.0.2), libquazip5-1 (>= 0.7.3), libsdl1.2debian (>= 1.2.11), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libswresample3 (>= 7:4.0), libswscale5 (>= 7:4.0), libtheora0 (>= 1.0), libva-x11-2 (>= 1.0.3), libva2 (>= 1.0.3), libvorbis0a (>= 1.1.2), libvorbisenc2 (>= 1.1.2), libvpx5 (>= 1.6.0), libx11-6, libx264-152, libxcb-render0, libxcb-shape0, libxcb-shm0, libxcb-xfixes0, libxcb1, zlib1g (>= 1:1.1.4)
-Homepage: openboard.ch
+Installed-Size: 54886
+Depends: libasound2 (>= 1.0.16), libass9 (>= 1:0.13.6), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.0), libavutil56 (>= 7:4.0), libbz2-1.0, libc6 (>= 2.14), libfdk-aac1 (>= 0.1.4), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libgl1, libglib2.0-0 (>= 2.12.0), libgomp1 (>= 4.9), liblzma5 (>= 5.1.1alpha+20110809), libmp3lame0 (>= 3.100), libogg0 (>= 1.0rc3), libopus0 (>= 1.1), libpoppler80 (>= 0.69.0), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5script5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.6.0~rc), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libqt5xmlpatterns5 (>= 5.0.2), libquazip5-1 (>= 0.7.3), libsdl1.2debian (>= 1.2.11), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libswresample3 (>= 7:4.0), libswscale5 (>= 7:4.0), libtheora0 (>= 1.0), libva-x11-2 (>= 1.0.3), libva2 (>= 1.0.3), libvorbis0a (>= 1.1.2), libvorbisenc2 (>= 1.1.2), libvpx5 (>= 1.6.0), libx11-6, libx264-155, libxcb-render0, libxcb-shape0, libxcb-shm0, libxcb-xfixes0, libxcb1, zlib1g (>= 1:1.1.4)
+Homepage: https://openboard.ch
 Priority: optional
 Section: education
-Filename: pool/main/o/openboard/openboard_1.4.1-1_amd64.deb
-Size: 22332996
-SHA256: 79148113fb2551419f9b18d6957efa21f8921338be58e1aad74a661b755c21a4
-SHA1: db5a15fb7d7af8eff630303f40b06caae133f623
-MD5sum: 9dd249d5ecb60bd17e5b129b1866b858
+Filename: pool/main/o/openboard/openboard_1.5.0-1_amd64.deb
+Size: 22583436
+SHA256: 25575ee7b164961fa6f149319ceaf62b8de60cd1a8bfb63ca487a4ec18af1f8b
+SHA1: dca11bcfb25fa47fe5126bcd442985a556b6cc86
+MD5sum: 4bd866a1c7662eaac845f1c7b05296ec
 Description: Interactive whiteboard for schools and universities
  OpenBoard is an open source cross-platform interactive white board application
  designed primarily for use in schools.
