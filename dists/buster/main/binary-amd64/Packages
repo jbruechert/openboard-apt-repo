@@ -1,16 +1,17 @@
 Package: openboard
-Version: 1.5.0-2
+Version: 1.5.1-1
 Architecture: amd64
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
-Installed-Size: 1010
+Installed-Size: 54887
+Depends: libasound2 (>= 1.0.16), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.0), libavutil56 (>= 7:4.0), libbz2-1.0, libc6 (>= 2.14), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libgl1, libglib2.0-0 (>= 2.12.0), libgomp1 (>= 4.9), liblzma5 (>= 5.1.1alpha+20110809), libpoppler80 (>= 0.69.0), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5script5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.6.0~rc), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libqt5xmlpatterns5 (>= 5.0.2), libquazip5-1 (>= 0.7.3), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libswresample3 (>= 7:4.0), libswscale5 (>= 7:4.0), libva-x11-2 (>= 1.0.3), libva2 (>= 1.0.3), libx11-6, libxcb-render0, libxcb-shape0, libxcb-shm0, libxcb-xfixes0, libxcb1, zlib1g (>= 1:1.1.4)
 Homepage: https://openboard.ch
 Priority: optional
 Section: education
-Filename: pool/main/o/openboard/openboard_1.5.0-2_amd64.deb
-Size: 301600
-SHA256: b325e4e9be1aa4831c09cc5908192422b96cc68cd4cbdbaf2e21eaa88692d185
-SHA1: 30f0dc3413fcb62669babf9fbe344a29d2cccfff
-MD5sum: 45f04e0c09088a53fe9ae0b070bc06a8
+Filename: pool/main/o/openboard/openboard_1.5.1-1_amd64.deb
+Size: 22584368
+SHA256: 8634a68e8ace49a76b9ad6b1e193569be85d488576850de84be6a9eccbf71198
+SHA1: a062368b5cc9f4386cedfcbbe3d3f3c9a8104bdf
+MD5sum: 8888fcb2e45e6a9d30706362def65d9e
 Description: Interactive whiteboard for schools and universities
  OpenBoard is an open source cross-platform interactive white board application
  designed primarily for use in schools.
@@ -18,19 +19,19 @@ Description: Interactive whiteboard for schools and universities
 
 Package: openboard-dbgsym
 Source: openboard
-Version: 1.4.1-1
+Version: 1.5.1-1
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
-Installed-Size: 54032
-Depends: openboard (= 1.4.1-1)
+Installed-Size: 55779
+Depends: openboard (= 1.5.1-1)
 Priority: optional
 Section: debug
-Filename: pool/main/o/openboard/openboard-dbgsym_1.4.1-1_amd64.deb
-Size: 53742388
-SHA256: cc67c1c2439937516d4148bf2d9909fe953388be77d3e6c7adaa7dfe187a164c
-SHA1: 3ae674a775259938ad6b0c4e94a51e01dfc8957d
-MD5sum: 40b35308d009bb3833010acd4a07932b
+Filename: pool/main/o/openboard/openboard-dbgsym_1.5.1-1_amd64.deb
+Size: 55523496
+SHA256: f7021c1b9358ffd525b5f7c57acfdd07d1d1110e3d69ba836b1ae446bcf17a13
+SHA1: c83433dd440ff08416436e0e9d8fdaffa9ff5800
+MD5sum: dfca76985ff5fd9e9d22bd9f9cc2f175
 Description: debug symbols for openboard
-Build-Ids: 48d69d479fdaea99a695931ffb487554a57f9601
+Build-Ids: da4173a7a6eb52c65f4fb17a2b5f61759eec00c4
 
