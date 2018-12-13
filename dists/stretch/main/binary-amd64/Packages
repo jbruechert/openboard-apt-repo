@@ -1,17 +1,17 @@
 Package: openboard
-Version: 1.5.0-1~bpo9+1
+Version: 1.5.1-1~bpo9+1
 Architecture: amd64
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
-Installed-Size: 54843
-Depends: libasound2 (>= 1.0.16), libass5 (>= 0.10.2), libavcodec57 (>= 7:3.2.12) | libavcodec-extra57 (>= 7:3.2.12), libavformat57 (>= 7:3.2.12), libavutil55 (>= 7:3.2.12), libbz2-1.0, libc6 (>= 2.14), libfdk-aac1 (>= 0.1.4), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libgl1-mesa-glx | libgl1, libgomp1 (>= 4.9), liblzma5 (>= 5.1.1alpha+20110809), libmp3lame0, libogg0 (>= 1.0rc3), libopus0 (>= 1.1), libpoppler64 (>= 0.48.0), libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5script5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.6.0~rc), libqt5widgets5 (>= 5.6.0~beta), libqt5xml5 (>= 5.0.2), libqt5xmlpatterns5 (>= 5.0.2), libquazip5-1, libsdl1.2debian (>= 1.2.11), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libswresample2 (>= 7:3.2.12), libswscale4 (>= 7:3.2.12), libtheora0 (>= 1.0), libva-x11-1 (>= 1.0.3), libva1 (>= 1.0.3), libvorbis0a (>= 1.1.2), libvorbisenc2 (>= 1.1.2), libvpx4 (>= 1.6.0), libx11-6, libx264-148, libxcb-render0, libxcb-shape0, libxcb-shm0, libxcb-xfixes0, libxcb1, zlib1g (>= 1:1.1.4)
+Installed-Size: 54844
+Depends: libasound2 (>= 1.0.16), libavcodec57 (>= 7:3.2.12) | libavcodec-extra57 (>= 7:3.2.12), libavformat57 (>= 7:3.2.12), libavutil55 (>= 7:3.2.12), libbz2-1.0, libc6 (>= 2.14), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:3.0), libgl1-mesa-glx | libgl1, libgomp1 (>= 4.9), liblzma5 (>= 5.1.1alpha+20110809), libpoppler64 (>= 0.48.0), libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5script5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5webkit5 (>= 5.6.0~rc), libqt5widgets5 (>= 5.6.0~beta), libqt5xml5 (>= 5.0.2), libqt5xmlpatterns5 (>= 5.0.2), libquazip5-1, libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libswresample2 (>= 7:3.2.12), libswscale4 (>= 7:3.2.12), libva-x11-1 (>= 1.0.3), libva1 (>= 1.0.3), libx11-6, libxcb-render0, libxcb-shape0, libxcb-shm0, libxcb-xfixes0, libxcb1, zlib1g (>= 1:1.1.4)
 Homepage: https://openboard.ch
 Priority: optional
 Section: education
-Filename: pool/main/o/openboard/openboard_1.5.0-1~bpo9+1_amd64.deb
-Size: 22562992
-SHA256: ab7ab7ac751475500f047cf37676644347fd1186b4c8381e9c2ac54912d5e160
-SHA1: 09e63c759370730d20c333af0e4c3e85bb09034b
-MD5sum: 2f86382a845c37670a844c12a351d198
+Filename: pool/main/o/openboard/openboard_1.5.1-1~bpo9+1_amd64.deb
+Size: 22567684
+SHA256: 927cab70c4f995ee0e8dbe87ef54a7cc63ff3d98d7388624af2371466ce0e622
+SHA1: d3e3eff2d39bbf8a750ebafcf27be87ec4598077
+MD5sum: 55a485fb8dc32c988c0dc1b082618410
 Description: Interactive whiteboard for schools and universities
  OpenBoard is an open source cross-platform interactive white board application
  designed primarily for use in schools.
@@ -19,20 +19,20 @@ Description: Interactive whiteboard for schools and universities
 
 Package: openboard-dbgsym
 Source: openboard
-Version: 1.5.0-1~bpo9+1
+Version: 1.5.1-1~bpo9+1
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: Jonah Brüchert <jbb@kaidan.im>
-Installed-Size: 48591
-Depends: openboard (= 1.5.0-1~bpo9+1)
+Installed-Size: 48595
+Depends: openboard (= 1.5.1-1~bpo9+1)
 Homepage: https://openboard.ch
 Priority: extra
 Section: debug
-Filename: pool/main/o/openboard/openboard-dbgsym_1.5.0-1~bpo9+1_amd64.deb
-Size: 48615820
-SHA256: 27e2b21adddda834d6c105bb737152e36b442a4719c80d6f82b1e6e7dd8aea18
-SHA1: 77223d15d916c0c12c28eb821976767064f17476
-MD5sum: 60430e900daa8bfc88af41fbe6ff8a4b
+Filename: pool/main/o/openboard/openboard-dbgsym_1.5.1-1~bpo9+1_amd64.deb
+Size: 48622086
+SHA256: 867d6aeb93713e6c3eb5f4a2849afd70bd900ce93f6842dc571b11b8471626a5
+SHA1: 83a08255c59f553be81bd56ac25952104911e12b
+MD5sum: 7c8d96a024364dd322ea57436229893d
 Description: Debug symbols for openboard
-Build-Ids: 3bf534f345a3c6dd23bd6be4a4073c8a2ef4223e
+Build-Ids: dc86fe1631499ab692c33bc305201224f115106f
 
